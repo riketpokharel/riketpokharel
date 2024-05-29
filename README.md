@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riketpokharel&label=Profile%20views&color=0e75b6&style=flat" alt="riketpokharel" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Advance level ReactJS and ExpressJS**
 
-- 👨‍💻 All of my projects are available at [https://riketpokharel.github.io/portfolio/](https://riketpokharel.github.io/portfolio/)
-
-- 💬 Ask me about **UI, Frontend**
+- 💬 Ask me about **UI, Frontend, Backend**
 
 - 📫 How to reach me **pokharelriket777@gmail.com**
 
